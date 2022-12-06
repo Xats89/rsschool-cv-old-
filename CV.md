@@ -4,9 +4,10 @@
 * __Phone__: +375 29 5676063
 * __E-mail__: xats89@gmail.com
 * __GitHub__: Xats89
+* __Discord__: Zheka (@Xats89)
 ___
 ## __About Me__
-I am a sociable, decent, responsible person. I take courses to gain new knowledge and skills. In the future, I want to apply my skills in interesting projects.
+I am a sociable, decent, responsible person. I take courses to gain new knowledge and skills. I want to learn a new profession. In the future I want to apply my skills in interesting projects.
 ___
 ## __Skills__
 * HTML
