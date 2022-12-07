@@ -1,1 +1,1 @@
-https://xats89.github.io/rsschool-cv/CV
+https://xats89.github.io/rsschool-cv/cv
