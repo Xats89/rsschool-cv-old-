@@ -6,6 +6,7 @@
 * __E-mail__: xats89@gmail.com
 * __GitHub__: Xats89
 * __Discord__: Zheka (@Xats89)
+
 ## __About Me__
 I am a sociable, decent, responsible person. I take courses to gain new knowledge and skills. I want to learn a new profession. In the future I want to apply my skills in interesting projects.
 
