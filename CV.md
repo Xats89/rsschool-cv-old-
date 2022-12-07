@@ -1,11 +1,11 @@
 # __Khanetski Yauhen__
+
 ## __Contacts__
 * __Location__: Minsk, Belarus
 * __Phone__: +375 29 5676063
 * __E-mail__: xats89@gmail.com
 * __GitHub__: Xats89
 * __Discord__: Zheka (@Xats89)
-
 ## __About Me__
 I am a sociable, decent, responsible person. I take courses to gain new knowledge and skills. I want to learn a new profession. In the future I want to apply my skills in interesting projects.
 
@@ -15,9 +15,10 @@ I am a sociable, decent, responsible person. I take courses to gain new knowledg
 * JavaScript (Basic)
 
 ## __Code Example__
-    function multiply(a, b){
-    return a * b
-    }
+function multiply(a, b){<br>
+return a * b<br>
+}<br>
+
 ## __Experiens__
 Nothing yet…
 
